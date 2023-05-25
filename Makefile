@@ -1,6 +1,9 @@
 default: build
 
-build: clean
+deps:
+	npm install
+
+build: deps clean
 	node main.js
 
 clean:
