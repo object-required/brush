@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Just an idea, a way to promote OpenPGP stuff.
+Signing blog posts, but in a cool way :)
+
+So you treat content of PGP message as Markdown
+and render it nicely into a web page, but the UI
+also contains BEGIN PGP SIGNED MESSAGE, as well
+as signature below, with OpenPGP.js based
+signature verification.
+
+~ Fox
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEECt5VztY/pOEHJx+rX8OMObU5jYEFAmQ98vYACgkQX8OMObU5
+jYEwARAAsrXZO3QxLms4M6seBl92FhLuK2zGTYQkqzd559/k4I0lihEgVUiCTs57
+Gwji7I9HlqmHH8dUAF1u/t2grfpI4ebZHcUFok/99BrC9YTWFSE4SiAw8vPDyUOA
+htAwCIIJk3xM4lEQBdWfe8EKhAXEUw6HXLc+O5BwAxtmQ+gAIG6n13SNWKSArctC
+Kfb+HaEETwrBQv97+R772UUjfqhv26hrc0fZnvybeMOQZTDoWSzxTH8IQg0ayxmf
+DIsc5CatlcoOWDgARCCQzle4wdnbHhWI/XUHrCgoVW1ktH6XZRmXv1gYD67hMPTi
+H1XnpO4RpFThSlrEZeSND6+qtRxxvowI5yVsARV04DYtRd9VzZFxc7FGzzvHTVG7
+8tTuw6Q7UmALVqljPFfy4wjOAaK30nLi7z1vk08Mo7J3XUGtIpXnoqeqhPmjmRki
+6T71+8eqImDNSFs77vaMV3HQxsvu9R5OK6kuc9LDCMggx4fn/7wDzLJwhcsRqgPz
+iuYmFNUk9nVVm3qeAer5Aly+mmhPgKxoqp1scqqDM7J6hYIf+dBf0lxTwbIXJtXo
+06GZUmmZlo2B8WnEsmj0H/jJLNmBe7wTofD4OuioWGIURnFNY3Uy9xZeksTs/weK
+KpChklROvDPjank+m4Kx/N/YL4RPvF4q4Er6NXsZ+i7v/vkDqNA=
+=1eW9
+-----END PGP SIGNATURE-----

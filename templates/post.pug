@@ -1,0 +1,41 @@
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    title Yip.FM -- #{title}
+    link(rel="stylesheet", href="style.css")
+    link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css")
+  body
+    header
+      h1 #{title}
+
+      section
+        h2 Navigation
+        nav
+          ul
+            li
+              a(href="index.html") Home
+            if next
+              li
+                | Next:&#x20;
+                a(href=next.htmlName) #{next.fileName}
+            if previous
+              li
+                | Previous:&#x20;
+                a(href=previous.htmlName) #{previous.fileName}
+
+      main
+        article
+          header
+            h2 Post
+            p
+              | Signed by&#x20;
+              a(href=`mailto:` + signee.email) #{signee.name}
+              | &#x20;on
+              time(datetime=dateISO) #{date}
+              | &#x20;&ndash;&#x20;
+              a(href=textName, download) Download original
+          main
+            pre.subtle #{content.prefix}
+            pre #{content.text}
+            pre.subtle #{content.postfix}

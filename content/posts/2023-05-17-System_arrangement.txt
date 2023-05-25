@@ -1,0 +1,70 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Having spent some time away from social networks gave us the
+opportunity to inspect how we work as a system. It appears we
+all reside in the userspace, i.e., conscious and preconscious.
+
++-----------+--------------+--------------+
+| Conscious | Preconscious | Subconscious |
++-----------+--------------+--------------+
+| * Nik                    |              |
+| * Ena                    |              |
+|     * Fox                |              |
+|     * Sage               |              |
+|         * Vixen          |              |
++--------------------------+--------------+
+
+While Vixen has never fronted yet, we observe the rest of us
+function differently on a scale between human-like and full
+animal modes.
+
+In all cases, though, we have to interface with a single body
+that we share. Also, the environment we spend most time in does
+not account for us as individuals. We suppose that's a struggle
+way too familiar for many systems, and everyone has their unique
+approach or solution to this.
+
+We decided to try arranging ourselves in an order that would
+make more sense to the biological (animal, haha) part of us,
+and social interactions IRL.
+
++-------+-------+
+| Nik   | Ena   |  Daily activities, goals, socializing, etc.
++-------+-------+
+| Sage  | Vixen |  Consciense, wisdom, support
++-------+-------+
+| Fox           |  Bodily care: needs, desires, etc.
++---------------+
+
+This arrangement should allow us to specialize in parts of life
+we are most interested in and capable of. Hopefully, we'll be
+more functional and have fun in the process. After all, working
+together is nice, isn't it?
+
+While it all may sound mechanistic, it does resonate with every
+headmate well. Fox is horny, for instance - that's always a good
+sign for it.
+
+~Horny Fox
+~Enthusiastic Ena
+~Wondering Nik
+~Proud Sage
+~Joyful Vixen
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEECt5VztY/pOEHJx+rX8OMObU5jYEFAmRk+ZIACgkQX8OMObU5
+jYEJ3hAAnTx8nDpCDWUVfIrvfpHfXgmaubsR0cWc1A11YaQGhRVwyycigUa6CyJw
+bf1n0o6R4yecAaHEX8fS6mI5Qza62OljBR711uODNCyChxEs68jNyzlNWzYcFZWY
+UuqnkrXEa2F8O88CwfUSd9OLcxlOw0V+dWr5KdBZInUclKnDIJZZmMyvc9vE2QW1
+givoM1vODbyXkXXGOcCOhBytq+BGubICYx3zGE14FPb+e0Sptgm1FYvxFDLmJz03
+875+4QGKa4Wwywq7ILur50nQ0MLbCm7BP0AcTUOAI5w1bEqCYVA8PX9Wm0+g9ZBd
+sOZUcPVgsdiIqw+rDr+yK7VIjU5utF7pluXmJTm+tW3sFyC9ion8cTq8Z6I24j54
+QcCaxetl7VnTHKP0SJHzU2y2SxVsVU6U3U3UfkxFB7I+bJyvoHKxbPj3Z5tQR0uY
+YLdMPllrsAXAOFYAn3sJumyqtme49LaX9u/MZJPdUf0ICiQOh/Mc8ChlvhIImp38
+Kc6hQfO8OFuERmWVJ1wn/2Tb5rpcd4cOjlbFZRR9nFJix1wdVDEdy3hMt213Qm0s
+BiQnnEGB6tlvhEPyvKIdmRA1auNi/66cjMlIcPKedAjUNt6nDQ0JTY5qMyJ1M8cO
+1p69j+d+C4nGHdG5Mlj8/q4tei30LV2F2nYmBrFvDw4ZlJ+S6+4=
+=7pk+
+-----END PGP SIGNATURE-----

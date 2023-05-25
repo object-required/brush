@@ -1,0 +1,19 @@
+{
+  "name": "prj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openpgp": "^5.9.0"
+  },
+  "devDependencies": {
+    "pug": "^3.0.2",
+    "surge": "^0.23.1"
+  }
+}

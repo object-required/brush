@@ -1,0 +1,27 @@
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    title Yip.FM
+    link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css")
+  body
+    header
+      h1 The Yip.FM Collective
+
+    main
+      article
+        p We are a system of 5 creatures, silly and proud of it. Male bodily, non-binary on average, furry and a software engineer on the outside.
+        ul
+          li Nik 💙 he/him, fox therian
+          li Fox 💛 it/its, feral and silver
+          li Ena ❤️ she/her, spotted hyena
+          li Sage 💜 one/one's/oneself, a plant thing
+          li Vi 🤍 vi/vir, fox spirit
+
+      section
+        h2 Blog
+        nav
+          ul
+            each post in posts
+              li
+                a(href=post.htmlName)= post.fileName
