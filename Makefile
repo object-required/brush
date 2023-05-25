@@ -1,14 +1,14 @@
-default: build
+default: deps generate
 
 deps:
 	npm install
 
-build: deps clean
-	node main.js
+generate: clean
+	node src/main.js
 
 clean:
 	rm -rf dist/*
 	cp -r public/* dist/
 
-publish: build
+publish: generate
 	npx surge dist/ --domain https://yip.fm

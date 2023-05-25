@@ -3,7 +3,7 @@ const path = require('path');
 const openpgp = require('openpgp');
 const pug = require('pug');
 
-const DIST_DIR = 'dist';
+const DIST_DIR = '../dist';
 
 const indexTemplate = pug.compileFile('templates/index.pug', {
   pretty: true,
@@ -123,4 +123,4 @@ async function main(directory) {
   })
 }
 
-main(path.join(__dirname, 'content'));
+main(path.join(__dirname, '../content'));
