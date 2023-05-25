@@ -1,0 +1,27 @@
+name: Makefile CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Build
+      run: make
+
+    - name: Publish
+      uses: dswistowski/surge-sh-action@v1.0.1
+      with:
+        # your surge.sh domain to deploy
+        domain: yip.fm
+        login: ${{ secrets.surge_login }}
+        token: ${{ secrets.surge_token }}
+        project: ./dist/
